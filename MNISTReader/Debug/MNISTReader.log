@@ -1,0 +1,9 @@
+﻿  MNISTReader.cpp
+c:\users\itayb\desktop\programming\c++\mnistreader\mnistreader\mnistreader.h(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\mnistreader\mnistreader\mnistreader.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\mnistreader\mnistreader\mnistreader.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\itayb\desktop\programming\c++\mnistreader\mnistreader\mnistreader.cpp(60): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\itayb\desktop\programming\c++\mnistreader\mnistreader\mnistreader.h(21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  MNISTReader.vcxproj -> C:\Users\itayb\Desktop\Programming\C++\MNISTReader\Debug\MNISTReader.exe
